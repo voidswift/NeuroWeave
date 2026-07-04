@@ -4,7 +4,7 @@
 
 NeuroWeave is an open-source coordination layer designed for intelligent systems, AI agents, automation platforms, and distributed decision-making environments.
 
-As AI systems evolve beyond single-model interactions, coordination becomes the new bottleneck.
+As AI systems evolve beyond single-model interactions, coordination becomes the new bottle neck.
 
 Agents need to communicate.
 Workflows need to adapt.
